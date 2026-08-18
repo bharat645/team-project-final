@@ -1,4 +1,4 @@
-\# Team Project Final
+\# # Team Project Final
 
 
 
@@ -8,4 +8,5 @@
 
 This project is created for practicing Git branching and merging.
 Feature A: Added user authentication.
+Feature B: Added payment integration.
 
