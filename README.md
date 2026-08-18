@@ -1,4 +1,4 @@
-\# Team Project Final
+\# # Team Project Final
 
 
 
@@ -6,5 +6,5 @@
 
 
 
-Feature A: Added user authentication.
+Feature B: Added payment integration.
 
